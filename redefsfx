@@ -1,4 +1,4 @@
-ÚLTUMA ATUALIZAÇÃO EM 10/03/2023
+ÚLTUMA ATUALIZAÇÃO EM 113/03/2023
 
 Adminimize
 Visually compresses the administrative meta-boxes so that more admin page content can be initially seen. The plugin that lets you hide 'unnecessary' items from the WordPress administration menu, for all roles of your install. You can also hide post meta controls on the edit-area to simplify the interface. It is possible to simplify the admin in different for all roles.
@@ -10,7 +10,7 @@ Versão 6.0.7
 
 Contact Form 7
 Só mais um plugin de formulário de contato. Simples, mas flexível.
-Versão 5.7.3
+Versão 5.7.4
 
 Ele Custom Skin
 Elementor Custom Skin for Posts and Archive Posts. You can create a skin as you want.
@@ -22,7 +22,7 @@ Versão 1.6.2
 	
 Elementor
 O construtor de sites Elementor tem de tudo: editor de páginas arraste-e-solte, design perfeito em pixels, edição responsiva para dispositivos móveis e mais. Comece agora!
-Versão 3.11.3
+Versão 3.11.4
 
 Elementor Pro
 Eleve seus designs e desbloqueie todo o poder do Elementor. Obtenha acesso a dezenas de Widgets e Kits Pro, Construtor de tema, Popups, Formulários e capacidades de construção no WooCommerce.
@@ -61,7 +61,7 @@ Imsanity stops insanely huge image uploads
 Versão 2.8.2
 
 Wordfence Login Security
-Versão 1.1.0
+Versão 1.1.1
 
 WP Mail SMTP
 Reconfigures the wp_mail() function to use Gmail/Mailgun/SendGrid/SMTP instead of the default mail() and creates an options page to manage the settings.
@@ -73,4 +73,4 @@ Versão 2.1.0
 
 Yoast SEO Free
 A primeira verdadeira solução completa de SEO para o WordPress, incluindo a análise de conteúdo por página, sitemaps XML e muito mais.
-Versão 20.1
+Versão 20.2.1
